@@ -7,22 +7,10 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-<<<<<<< HEAD
-
-	<name>cdci_auto</name>
-	<url>http://maven.apache.org</url>
-
-
-=======
-	<name>cdci_auto</name>
-	<url>http://maven.apache.org</url>
-
->>>>>>> bf45a30f9d6df77cfef8cafe7ea118fff7360f03
+	
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
-
-<<<<<<< HEAD
 
 	<build>
 		<plugins>
@@ -40,8 +28,6 @@
 	</build>
 
 
-=======
->>>>>>> bf45a30f9d6df77cfef8cafe7ea118fff7360f03
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
@@ -60,20 +46,9 @@
 			<groupId>org.testng</groupId>
 			<artifactId>testng</artifactId>
 			<version>6.8</version>
-<<<<<<< HEAD
-			<!-- <scope>test</scope> -->
+
 		</dependency>
 
-		<dependency>
-			<groupId>org.seleniumhq.selenium</groupId>
-			<artifactId>selenium-server</artifactId>
-			<version>3.0.1</version>
-		</dependency>
-=======
-			<scope>test</scope>
-		</dependency>
-
->>>>>>> bf45a30f9d6df77cfef8cafe7ea118fff7360f03
 
 	</dependencies>
 </project>
